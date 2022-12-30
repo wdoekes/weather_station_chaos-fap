@@ -1,4 +1,4 @@
-# Flipper Zero Weather Stations Chaos
+# Flipper Zero Weather Station Chaos
 
 This is a copy of the Weather Station application from the [Flipper
 Zero](https://flipperzero.one/) version 0.74.2 source, written mostly by
